@@ -28,7 +28,11 @@ def set_comic_list_to_csv(filename, comic_list):
 filename = 'Readme.md'
 
 set_comic_list = []
-for comic in get_comic_list_from_csv(filename):
+for index, comic in enumerate(get_comic_list_from_csv(filename)):
+    if index == 0:
+        data = ["Read", "My", "Now", "Url"]
+        set_comic_list.append(data)
+        continue
 
     r = requests.get(comic["url"])
     soup = BeautifulSoup(r.text, 'html.parser')
@@ -41,7 +45,7 @@ for comic in get_comic_list_from_csv(filename):
     last_video_title = soup.main.h2.find_all('a')[0].text
     last_video_name = last_video_title.split("[")[0]
     last_video_num = last_video_title.split("[")[1].split("]")[0]
-    unread = "v" if comic["my_process"] != last_video_num else ""
+    unread = "v" if int(comic["my_process"]) != int(last_video_num) else ""
 
     data = [
         unread,
