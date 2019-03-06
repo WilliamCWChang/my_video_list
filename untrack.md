@@ -378,7 +378,6 @@ v,0,17,https://anime1.me/?cat=283,偶像星願(IDOLiSH7)
 v,0,17,https://anime1.me/?cat=403,魔法禁書目錄Ⅲ (第三季)
 v,0,17,https://anime1.me/?cat=404,刀劍神域 Alicization (第三季)
 v,0,17,https://anime1.me/?cat=420,JoJo的奇妙冒險 黃金之風
-v,0,18,https://anime1.me/?cat=399,關於我轉生變成史萊姆這檔事
 v,0,18,https://anime1.me/?cat=401,關於我轉生變成史萊姆這檔事
 v,0,18,https://anime1.me/?cat=425,Radiant 虛空魔境
 v,0,19,https://anime1.me/?cat=332,溫泉屋小女將

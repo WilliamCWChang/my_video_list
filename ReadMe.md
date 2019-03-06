@@ -1,2 +1,4 @@
-Read,My,Now,Url
-    ,6 ,06 ,https://anime1.me/?cat=472,多羅羅
+|Read| My| Now| Url|
+|----| ----| ----| ----|
+||9|09| https://anime1.me/?cat=472|多羅羅 |
+||22|22| https://anime1.me/?cat=401|關於我轉生變成史萊姆這檔事 |
