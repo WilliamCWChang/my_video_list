@@ -27,15 +27,15 @@ def set_comic_list_to_csv(filename, comic_list):
         # data_list = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for comic in comic_list:
             # file.write(comic)
-            file.write("|"+"|".join(comic)+"|\n")
+            file.write(" | "+" | ".join(comic)+" |\n")
 
 
 filename = 'Readme.md'
 
 set_comic_list = []
-data = ["Read| My| Now| Url"]
+data = ["Read|My|Now|Url|Name"]
 set_comic_list.append(data)
-data = ["----| ----| ----| ----"]
+data = [":-:|:-:|:-:|:-:|:-:"]
 set_comic_list.append(data)
 
 for index, comic in enumerate(get_comic_list_from_csv(filename)):
