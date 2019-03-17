@@ -34,13 +34,33 @@ def set_comic_list_to_markdown(filename, comic_list):
             file.write(" | " + " | ".join(comic) + " |\n")
 
 
+def sort_comic_list(comic_list):
+    enable_read_list = []
+    enable_unread_list = []
+    disable_list = []
+
+    for index, comic in enumerate(comic_list):
+        if index < 2:
+            continue
+        print(comic)
+        enable = comic[0]
+        unread = comic[1]
+
+        if enable == "v":
+            if unread == "v":
+                enable_unread_list.append(comic)
+            else:
+                enable_read_list.append(comic)
+        else:
+            disable_list.append(comic)
+
+    return enable_unread_list + enable_read_list + disable_list
+
+
 filename = 'Readme.md'
 
 set_comic_list = []
-data = ["Enable|Read|My|Now|Url|Name"]
-set_comic_list.append(data)
-data = [":-:|:-:|:-:|:-:|:-:|:-:"]
-set_comic_list.append(data)
+
 
 for comic in get_comic_list_from_markdown(filename):
     print(comic)
@@ -91,5 +111,13 @@ for comic in get_comic_list_from_markdown(filename):
         last_video_name.strip()
     ]
     set_comic_list.append(data)
+
+set_comic_list = sort_comic_list(set_comic_list)
+
+
+data = ["Enable|Unread|My|Now|Url|Name"]
+set_comic_list.insert(0, data)
+data = [":-:|:-:|:-:|:-:|:-:|:-:"]
+set_comic_list.insert(1, data)
 
 set_comic_list_to_markdown(filename, set_comic_list)
