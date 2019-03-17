@@ -1,9 +1,10 @@
+# coding:gbk
 import csv
 import requests
 from bs4 import BeautifulSoup
 
 
-def get_comic_list_from_csv(csvfilename):
+def get_comic_list_from_markdown(csvfilename):
     comic_list = []
     with open(filename, encoding='utf8') as file:
         for index, row in enumerate(file.readlines()):
@@ -15,13 +16,17 @@ def get_comic_list_from_csv(csvfilename):
             # print(row)
             comic_list.append(
                 {
-                    "my_process": int(row[2]),
-                    "url": row[4],
+                    "enable": True if "v" in row[1].lower() else False,
+                    "unread": True if "v" in row[2].lower() else False,
+                    "my_process": int(row[3]),
+                    "now": row[4],
+                    "url": row[5],
+                    "title": row[6],
                 })
     return comic_list
 
 
-def set_comic_list_to_csv(filename, comic_list):
+def set_comic_list_to_markdown(filename, comic_list):
     with open(filename, newline='', encoding='utf8', mode='w') as file:
         # data_list = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for comic in comic_list:
@@ -32,56 +37,59 @@ def set_comic_list_to_csv(filename, comic_list):
 filename = 'Readme.md'
 
 set_comic_list = []
-data = ["Read|My|Now|Url|Name"]
+data = ["Enable|Read|My|Now|Url|Name"]
 set_comic_list.append(data)
-data = [":-:|:-:|:-:|:-:|:-:"]
+data = [":-:|:-:|:-:|:-:|:-:|:-:"]
 set_comic_list.append(data)
 
-for comic in get_comic_list_from_csv(filename):
+for comic in get_comic_list_from_markdown(filename):
     print(comic)
-    r = requests.get(comic["url"])
-    soup = BeautifulSoup(r.text, 'html.parser')
+    unread = comic["unread"]
 
-    if "杩戞湡鏂囩珷" in soup.main.h2.text:
-        # print("The page is not found. url={}".format(comic["url"]))
-        continue
+    last_video_num = comic["now"]
+    last_video_name = comic["title"]
+    if comic["enable"]:
+        r = requests.get(comic["url"])
+        soup = BeautifulSoup(r.text, 'html.parser')
 
-    # print(soup.main.h2)
+        if "近期文章" in soup.main.h2.text:
+            # print("The page is not found. url={}".format(comic["url"]))
+            continue
 
-    video_title = soup.main.find_all('h2')[0].text.split("[")[0]
+        # print(soup.main.h2)
 
-    last_video_num = -1
-    for text in soup.main.find_all('h2'):
-        if video_title not in text.text:
-            if "鏂囩珷鍒嗛爜" in text.text:
-                # print("鏂囩珷鍒嗛爜")
-                continue
-            else:
-                print("video_title = {}\t text.text = {}".format(video_title, text.text))
-                last_video_num = -1
-                break
+        video_title = soup.main.find_all('h2')[0].text.split("[")[0]
 
-        video_num = text.text.split("[")[1].split("]")[0]
-        if video_num.isdigit():
-            if int(video_num) > int(last_video_num):
-                last_video_num = int(video_num)
+        last_video_num = -1
+        for text in soup.main.find_all('h2'):
+            if video_title not in text.text:
+                if "文章分頁" in text.text:
+                    continue
+                else:
+                    print("video_title = {}\t text.text = {}".format(video_title, text.text))
+                    last_video_num = -1
+                    break
 
-    if last_video_num is -1:
-        # print(comic["url"].replace(" ", ""))
-        continue
+            video_num = text.text.split("[")[1].split("]")[0]
+            if video_num.isdigit():
+                if int(video_num) > int(last_video_num):
+                    last_video_num = int(video_num)
 
-    last_video_title = soup.main.h2.find_all('a')[0].text
-    last_video_name = last_video_title.split("[")[0]
-    unread = "v" if int(comic["my_process"]) != int(last_video_num) else " "
+        if last_video_num is -1:
+            # print(comic["url"].replace(" ", ""))
+            continue
 
+        last_video_title = soup.main.h2.find_all('a')[0].text
+        last_video_name = last_video_title.split("[")[0]
+        unread = True if int(comic["my_process"]) != int(last_video_num) else False
     data = [
-        unread,
+        "v" if comic["enable"] else " ",
+        "v" if unread else " ",
         str(comic["my_process"]).zfill(2),
-        str(last_video_num).zfill(2),
+        str(last_video_num).zfill(2).strip(" "),
         comic["url"].replace(" ", ""),
-        last_video_name
+        last_video_name.strip()
     ]
     set_comic_list.append(data)
 
-    print(data)
-set_comic_list_to_csv(filename, set_comic_list)
+set_comic_list_to_markdown(filename, set_comic_list)
