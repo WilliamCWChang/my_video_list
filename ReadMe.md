@@ -1,12 +1,12 @@
- | Enable|Read|My|Now|Url|Name |
+ | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v |   | 10 | 10 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
- | v |   | 10 | 10 | https://anime1.me/?cat=472 | 多羅羅 |
+ | v | v | 00 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
+ | v | v | 00 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川 |
+ | v | v | 00 | 10 | https://anime1.me/?cat=474 | 路人超能100 II (第二季) |
+ | v | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100 |
  | v |   | 22 | 22 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v |   | 02 | 02 | https://anime1.me/?cat=461 | 齊木楠雄的災難 完結篇 |
  | v |   | 24 | 24 | https://anime1.me/?cat=286 | 齊木楠雄的災難 第二季 |
- |   | v | 00 | 10 | https://anime1.me/?cat=474 | 路人超能100 II (第二季) |
- |   | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100 |
  |   | v | 00 | 00 | https://anime1.me/?cat=463 | 艾梅洛閣下II世事件簿 魔眼搜集列車 Grace note |
  |   | v | 00 | 01 | https://anime1.me/?cat=253 | Fate/Grand Order -MOONLIGHT/LOSTROOM- |
  |   | v | 00 | 01 | https://anime1.me/?cat=371 | 某殭屍少女的災難 |
@@ -400,7 +400,6 @@
  |   | v | 00 | 19 | https://anime1.me/?cat=332 | 溫泉屋小女將 |
  |   | v | 00 | 20 | https://anime1.me/?cat=424 | 逆轉裁判 Season2 (第二季) |
  |   | v | 00 | 21 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季) |
- |   | v | 00 | 21 | https://anime1.me/?cat=409 | 強風吹拂 |
  |   | v | 00 | 21 | https://anime1.me/?cat=418 | 火之丸相撲 |
  |   | v | 00 | 21 | https://anime1.me/?cat=425 | Radiant 虛空魔境 |
  |   | v | 00 | 21 | https://anime1.me/?cat=438 | 傀儡馬戲團 |
@@ -408,7 +407,6 @@
  |   | v | 00 | 22 | https://anime1.me/?cat=240 | 3月的獅子 第二季 |
  |   | v | 00 | 22 | https://anime1.me/?cat=262 | 庫洛魔法使 透明牌篇 |
  |   | v | 00 | 22 | https://anime1.me/?cat=403 | 魔法禁書目錄Ⅲ (第三季) |
- |   | v | 00 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
  |   | v | 00 | 23 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
  |   | v | 00 | 23 | https://anime1.me/?cat=408 | 爆釣 Bar Hunter |
  |   | v | 00 | 24 | https://anime1.me/?cat=101 | 重啟咲良田 |
@@ -424,8 +422,6 @@
  |   | v | 00 | 24 | https://anime1.me/?cat=279 | 沒有心跳的少女 BEATLESS |
  |   | v | 00 | 24 | https://anime1.me/?cat=281 | DARLING in the FRANXX |
  |   | v | 00 | 24 | https://anime1.me/?cat=284 | 櫻花忍法帖 |
- |   | v | 00 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
- |   | v | 00 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川 |
  |   | v | 00 | 24 | https://anime1.me/?cat=370 | Banana Fish(戰慄殺機) |
  |   | v | 00 | 25 | https://anime1.me/?cat=131 | 境界之輪迴 第三季 |
  |   | v | 00 | 25 | https://anime1.me/?cat=163 | Fate/Apocrypha |
