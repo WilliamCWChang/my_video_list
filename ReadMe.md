@@ -1,9 +1,12 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | 00 | 21 | https://anime1.me/?cat=409 | 強風吹拂 |
- | v | v | 00 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
- | v | v | 00 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
- | v | v | 00 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川 |
+ | v |   | 10 | 10 | https://anime1.me/?cat=472 | 多羅羅 |
+ | v |   | 23 | 23 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v |   | 10 | 10 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
+ | v |   | 21 | 21 | https://anime1.me/?cat=409 | 強風吹拂 |
+ | v |   | 23 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
+ | v |   | 24 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
+ | v |   | 24 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川 |
  | v |   | 22 | 22 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v |   | 02 | 02 | https://anime1.me/?cat=461 | 齊木楠雄的災難 完結篇 |
  | v |   | 24 | 24 | https://anime1.me/?cat=286 | 齊木楠雄的災難 第二季 |
