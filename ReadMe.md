@@ -1,10 +1,19 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v |   | 10 | 10 | https://anime1.me/?cat=472 | 多羅羅 |
- | v |   | 23 | 23 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v | v | 00 | 07 | https://anime1.me/?cat=136 | 一拳超人 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=141 | 曆物語 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=184 | 歡迎來到實力至上主義的教室 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=205 | 寶石之國 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=208 | 奇諾之旅 -the Beautiful World- the Animated Series |
+ | v |   | 11 | 11 | https://anime1.me/?cat=472 | 多羅羅 |
+ | v |   | 24 | 24 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
  | v |   | 10 | 10 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
  | v |   | 21 | 21 | https://anime1.me/?cat=409 | 強風吹拂 |
  | v |   | 22 | 22 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
+ |   | v | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 23 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
  |   |   | 24 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
  |   |   | 24 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川 |
@@ -29,7 +38,6 @@
  |   | v | 00 | 06 | https://anime1.me/?cat=246 | 結城友奈是勇者 勇者之章 |
  |   | v | 00 | 06 | https://anime1.me/?cat=390 | 擺出討厭的表情露出內褲 |
  |   | v | 00 | 06 | https://anime1.me/?cat=502 | 星光☆閃亮 光之美少女 |
- |   | v | 00 | 07 | https://anime1.me/?cat=136 | 一拳超人 |
  |   | v | 00 | 07 | https://anime1.me/?cat=498 | 琴之森 第二季 |
  |   | v | 00 | 07 | https://anime1.me/?cat=500 | 虛擬小姐在看著你 |
  |   | v | 00 | 08 | https://anime1.me/?cat=152 | 噬血狂襲 OVA 第二季 |
@@ -123,19 +131,15 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=139 | 田中君總是如此慵懶 |
  |   | v | 00 | 12 | https://anime1.me/?cat=14 | 烏菈菈迷路帖 |
  |   | v | 00 | 12 | https://anime1.me/?cat=140 | 緋彈的亞莉亞AA |
- |   | v | 00 | 12 | https://anime1.me/?cat=141 | 曆物語 |
- |   | v | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   | v | 00 | 12 | https://anime1.me/?cat=145 | 小金剛起源 |
  |   | v | 00 | 12 | https://anime1.me/?cat=149 | 文豪Stray Dogs |
  |   | v | 00 | 12 | https://anime1.me/?cat=150 | 文豪Stray Dogs 第二季 |
  |   | v | 00 | 12 | https://anime1.me/?cat=159 | 雛邏輯～來自幸運邏輯～(Hina Logic) |
- |   | v | 00 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇 |
  |   | v | 00 | 12 | https://anime1.me/?cat=160 | NEW GAME!! (第二季) |
  |   | v | 00 | 12 | https://anime1.me/?cat=161 | 狂賭之淵 |
  |   | v | 00 | 12 | https://anime1.me/?cat=166 | 裙子下的野獸 |
  |   | v | 00 | 12 | https://anime1.me/?cat=167 | 潔癖男子青山！ |
  |   | v | 00 | 12 | https://anime1.me/?cat=168 | 戀愛與謊言 |
- |   | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
  |   | v | 00 | 12 | https://anime1.me/?cat=17 | 幼女戰記 |
  |   | v | 00 | 12 | https://anime1.me/?cat=170 | 單蠢女孩 |
  |   | v | 00 | 12 | https://anime1.me/?cat=171 | 徒然喜歡你(徒然CHILDREN) |
@@ -145,12 +149,10 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=178 | 動作女英雄CheerFruit |
  |   | v | 00 | 12 | https://anime1.me/?cat=182 | 獨占我的英雄 |
  |   | v | 00 | 12 | https://anime1.me/?cat=183 | Princess Principal |
- |   | v | 00 | 12 | https://anime1.me/?cat=184 | 歡迎來到實力至上主義的教室 |
  |   | v | 00 | 12 | https://anime1.me/?cat=185 | 半獸人的煩惱 |
  |   | v | 00 | 12 | https://anime1.me/?cat=186 | 戰鬥女子學園 |
  |   | v | 00 | 12 | https://anime1.me/?cat=187 | 天使的3P |
  |   | v | 00 | 12 | https://anime1.me/?cat=188 | 梵蒂岡奇蹟調查官 |
- |   | v | 00 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
  |   | v | 00 | 12 | https://anime1.me/?cat=190 | 猜謎王 |
  |   | v | 00 | 12 | https://anime1.me/?cat=191 | 野良和皇女和野貓之心 |
  |   | v | 00 | 12 | https://anime1.me/?cat=194 | 海天使之光 |
@@ -158,9 +160,7 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=196 | 地獄少女 宵伽 |
  |   | v | 00 | 12 | https://anime1.me/?cat=200 | THE REFLECTION WAVE ONE |
  |   | v | 00 | 12 | https://anime1.me/?cat=204 | 如果有妹妹就好了。 |
- |   | v | 00 | 12 | https://anime1.me/?cat=205 | 寶石之國 |
  |   | v | 00 | 12 | https://anime1.me/?cat=206 | UQ HOLDER！悠久持有者 ～魔法老師！2～ |
- |   | v | 00 | 12 | https://anime1.me/?cat=208 | 奇諾之旅 -the Beautiful World- the Animated Series |
  |   | v | 00 | 12 | https://anime1.me/?cat=209 | Just Because! |
  |   | v | 00 | 12 | https://anime1.me/?cat=21 | élDLIVE宇宙警探 |
  |   | v | 00 | 12 | https://anime1.me/?cat=211 | 相親對象是我教的強勢問題兒 |
