@@ -1,18 +1,18 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
  | v | v | 00 | 07 | https://anime1.me/?cat=136 | 一拳超人 |
- | v | v | 00 | 12 | https://anime1.me/?cat=141 | 曆物語 |
  | v | v | 00 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇 |
  | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
  | v | v | 00 | 12 | https://anime1.me/?cat=184 | 歡迎來到實力至上主義的教室 |
  | v | v | 00 | 12 | https://anime1.me/?cat=205 | 寶石之國 |
  | v | v | 00 | 12 | https://anime1.me/?cat=208 | 奇諾之旅 -the Beautiful World- the Animated Series |
- | v |   | 11 | 11 | https://anime1.me/?cat=472 | 多羅羅 |
- | v |   | 24 | 24 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v | v | 11 | 12 | https://anime1.me/?cat=472 | 多羅羅 |
+ | v | v | 24 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v | v | 10 | 12 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
+ | v | v | 21 | 23 | https://anime1.me/?cat=409 | 強風吹拂 |
+ | v | v | 23 | 24 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
+ | v |   | 12 | 12 | https://anime1.me/?cat=141 | 曆物語 |
  | v |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
- | v |   | 10 | 10 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
- | v |   | 21 | 21 | https://anime1.me/?cat=409 | 強風吹拂 |
- | v |   | 22 | 22 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  |   | v | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 23 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
  |   |   | 24 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
