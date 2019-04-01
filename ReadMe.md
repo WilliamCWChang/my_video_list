@@ -10,7 +10,8 @@
  | v | v | 24 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
  | v | v | 10 | 12 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
  | v | v | 21 | 23 | https://anime1.me/?cat=409 | 強風吹拂 |
- | v | v | 23 | 24 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
+ | v | v | 04 | 24 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季) |
+ | v |   | 24 | 24 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v |   | 12 | 12 | https://anime1.me/?cat=141 | 曆物語 |
  | v |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
  |   | v | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
@@ -404,7 +405,6 @@
  |   | v | 00 | 17 | https://anime1.me/?cat=283 | 偶像星願(IDOLiSH7) |
  |   | v | 00 | 19 | https://anime1.me/?cat=332 | 溫泉屋小女將 |
  |   | v | 00 | 20 | https://anime1.me/?cat=424 | 逆轉裁判 Season2 (第二季) |
- |   | v | 00 | 21 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季) |
  |   | v | 00 | 21 | https://anime1.me/?cat=418 | 火之丸相撲 |
  |   | v | 00 | 21 | https://anime1.me/?cat=425 | Radiant 虛空魔境 |
  |   | v | 00 | 21 | https://anime1.me/?cat=438 | 傀儡馬戲團 |
