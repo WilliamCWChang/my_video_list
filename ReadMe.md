@@ -1,11 +1,11 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
  | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
- | v | v | 24 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
- | v | v | 00 | 03 | https://anime1.me/?cat=524 | 深夜的超自然公務員 |
  | v | v | 00 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲 |
  | v | v | 00 | 12 | https://anime1.me/?cat=343 | 異世界居酒屋「阿信」 |
  | v | v | 00 | 12 | https://anime1.me/?cat=364 | 異世界魔王與召喚少女的奴隸魔術 |
+ | v |   | 25 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
+ | v |   | 03 | 03 | https://anime1.me/?cat=524 | 深夜的超自然公務員 |
  | v |   | 27 | 27 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v |   | 02 | 02 | https://anime1.me/?cat=532 | 異世界四重奏 |
  | v |   | 02 | 02 | https://anime1.me/?cat=534 | 賢者之孫 |
