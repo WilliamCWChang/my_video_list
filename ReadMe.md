@@ -1,9 +1,9 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
  | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
- | v | v | 00 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲 |
  | v | v | 00 | 12 | https://anime1.me/?cat=343 | 異世界居酒屋「阿信」 |
  | v | v | 00 | 12 | https://anime1.me/?cat=364 | 異世界魔王與召喚少女的奴隸魔術 |
+ | v |   | 12 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲 |
  | v |   | 25 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
  | v |   | 03 | 03 | https://anime1.me/?cat=524 | 深夜的超自然公務員 |
  | v |   | 27 | 27 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
@@ -50,6 +50,7 @@
  |   |   | 24 | 24 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季) |
  |   |   | 12 | 12 | https://anime1.me/?cat=141 | 曆物語 |
  |   |   | 10 | 10 | https://anime1.me/?cat=28 | 為美好的世界獻上祝福！ 第二季 |
+ |   |   | 10 | 10 | https://anime1.me/?cat=4 | 為美好的世界獻上祝福！ |
  |   |   | 12 | 12 | https://anime1.me/?cat=17 | 幼女戰記 |
  |   |   | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 23 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
@@ -104,7 +105,6 @@
  |   | v | 00 | 10 | https://anime1.me/?cat=288 | 惡魔人 Crybaby |
  |   | v | 00 | 10 | https://anime1.me/?cat=360 | Back Street Girls~後街女孩~ |
  |   | v | 00 | 10 | https://anime1.me/?cat=37 | SUPER LOVERS 第二季 |
- |   | v | 00 | 10 | https://anime1.me/?cat=4 | 為美好的世界獻上祝福！ |
  |   | v | 00 | 10 | https://anime1.me/?cat=441 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei! |
  |   | v | 00 | 10 | https://anime1.me/?cat=442 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz! |
  |   | v | 00 | 10 | https://anime1.me/?cat=45 | Fate/kaleid liner 魔法少女☆伊莉雅 |
