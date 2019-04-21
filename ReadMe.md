@@ -2,13 +2,16 @@
  | :-:|:-:|:-:|:-:|:-:|:-: |
  | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
  | v | v | 24 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
- | v | v | 24 | 27 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v | v | 00 | 03 | https://anime1.me/?cat=524 | 深夜的超自然公務員 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=343 | 異世界居酒屋「阿信」 |
+ | v | v | 00 | 12 | https://anime1.me/?cat=364 | 異世界魔王與召喚少女的奴隸魔術 |
+ | v |   | 27 | 27 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
  | v |   | 02 | 02 | https://anime1.me/?cat=532 | 異世界四重奏 |
  | v |   | 02 | 02 | https://anime1.me/?cat=534 | 賢者之孫 |
  | v |   | 02 | 02 | https://anime1.me/?cat=537 | 皿三昧 |
  | v |   | 14 | 14 | https://anime1.me/?cat=472 | 多羅羅 |
- | v |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
+ |   |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
  |   | v | 00 | 10 | https://anime1.me/?cat=437 | 我喜歡的妹妹不是妹妹(我喜歡的是小說裏的你) |
  |   | v | 00 | 07 | https://anime1.me/?cat=136 | 一拳超人 |
  |   | v | 00 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇 |
@@ -214,7 +217,6 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=235 | 泥鯨之子們在沙地上歌唱 |
  |   | v | 00 | 12 | https://anime1.me/?cat=236 | LOVE 米 -WE LOVE RICE- 第二季 |
  |   | v | 00 | 12 | https://anime1.me/?cat=24 | 廢天使加百列 |
- |   | v | 00 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲 |
  |   | v | 00 | 12 | https://anime1.me/?cat=25 | Hand Shakers |
  |   | v | 00 | 12 | https://anime1.me/?cat=250 | 龍王的工作！ |
  |   | v | 00 | 12 | https://anime1.me/?cat=251 | 博多豚骨拉麵團 |
@@ -272,7 +274,6 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=338 | 惡魔高校 D×D HERO(第四季) |
  |   | v | 00 | 12 | https://anime1.me/?cat=340 | 最終休止符 |
  |   | v | 00 | 12 | https://anime1.me/?cat=341 | Butlers～千年百年物語～ |
- |   | v | 00 | 12 | https://anime1.me/?cat=343 | 異世界居酒屋「阿信」 |
  |   | v | 00 | 12 | https://anime1.me/?cat=344 | 奴隸區 我與23個奴隸 |
  |   | v | 00 | 12 | https://anime1.me/?cat=345 | 和風喫茶鹿楓堂 |
  |   | v | 00 | 12 | https://anime1.me/?cat=346 | 驚爆危機 Invisible Victory |
@@ -281,7 +282,6 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=358 | One Room 第二季 |
  |   | v | 00 | 12 | https://anime1.me/?cat=361 | 千銃士 |
  |   | v | 00 | 12 | https://anime1.me/?cat=363 | 夢王國與沉睡中的100位王子殿下 |
- |   | v | 00 | 12 | https://anime1.me/?cat=364 | 異世界魔王與召喚少女的奴隸魔術 |
  |   | v | 00 | 12 | https://anime1.me/?cat=365 | 春原莊的管理員小姐 |
  |   | v | 00 | 12 | https://anime1.me/?cat=366 | 昴宿七星(七星的昴星團) |
  |   | v | 00 | 12 | https://anime1.me/?cat=367 | 千緒的通學路 |
