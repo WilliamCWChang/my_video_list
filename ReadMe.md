@@ -1,19 +1,16 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | 00 | 07 | https://anime1.me/?cat=136 | 一拳超人 |
  | v | v | 00 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇 |
  | v | v | 00 | 12 | https://anime1.me/?cat=169 | 異世界食堂 |
  | v | v | 00 | 12 | https://anime1.me/?cat=184 | 歡迎來到實力至上主義的教室 |
  | v | v | 00 | 12 | https://anime1.me/?cat=205 | 寶石之國 |
  | v | v | 00 | 12 | https://anime1.me/?cat=208 | 奇諾之旅 -the Beautiful World- the Animated Series |
- | v | v | 11 | 12 | https://anime1.me/?cat=472 | 多羅羅 |
- | v | v | 24 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
- | v | v | 10 | 12 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
- | v | v | 21 | 23 | https://anime1.me/?cat=409 | 強風吹拂 |
- | v | v | 04 | 24 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季) |
- | v |   | 24 | 24 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風 |
+ | v |   | 14 | 14 | https://anime1.me/?cat=472 | 多羅羅 |
  | v |   | 12 | 12 | https://anime1.me/?cat=141 | 曆物語 |
  | v |   | 12 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。 |
+ | v |   | 10 | 10 | https://anime1.me/?cat=28 | 為美好的世界獻上祝福！ 第二季 |
+ | v |   | 10 | 10 | https://anime1.me/?cat=437 | 我喜歡的妹妹不是妹妹(我喜歡的是小說裏的你) |
+ | v |   | 12 | 12 | https://anime1.me/?cat=17 | 幼女戰記 |
  |   | v | 00 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 23 | 23 | https://anime1.me/?cat=339 | 命運石之門0 |
  |   |   | 24 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5 |
@@ -64,12 +61,10 @@
  |   | v | 00 | 10 | https://anime1.me/?cat=207 | 我的女友是個過度認真的處女bitch |
  |   | v | 00 | 10 | https://anime1.me/?cat=237 | 網路勝利組 |
  |   | v | 00 | 10 | https://anime1.me/?cat=275 | 童話魔法使 |
- |   | v | 00 | 10 | https://anime1.me/?cat=28 | 為美好的世界獻上祝福！ 第二季 |
  |   | v | 00 | 10 | https://anime1.me/?cat=288 | 惡魔人 Crybaby |
  |   | v | 00 | 10 | https://anime1.me/?cat=360 | Back Street Girls~後街女孩~ |
  |   | v | 00 | 10 | https://anime1.me/?cat=37 | SUPER LOVERS 第二季 |
  |   | v | 00 | 10 | https://anime1.me/?cat=4 | 為美好的世界獻上祝福！ |
- |   | v | 00 | 10 | https://anime1.me/?cat=437 | 我喜歡的妹妹不是妹妹(我喜歡的是小說裏的你) |
  |   | v | 00 | 10 | https://anime1.me/?cat=441 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei! |
  |   | v | 00 | 10 | https://anime1.me/?cat=442 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz! |
  |   | v | 00 | 10 | https://anime1.me/?cat=45 | Fate/kaleid liner 魔法少女☆伊莉雅 |
@@ -141,7 +136,6 @@
  |   | v | 00 | 12 | https://anime1.me/?cat=166 | 裙子下的野獸 |
  |   | v | 00 | 12 | https://anime1.me/?cat=167 | 潔癖男子青山！ |
  |   | v | 00 | 12 | https://anime1.me/?cat=168 | 戀愛與謊言 |
- |   | v | 00 | 12 | https://anime1.me/?cat=17 | 幼女戰記 |
  |   | v | 00 | 12 | https://anime1.me/?cat=170 | 單蠢女孩 |
  |   | v | 00 | 12 | https://anime1.me/?cat=171 | 徒然喜歡你(徒然CHILDREN) |
  |   | v | 00 | 12 | https://anime1.me/?cat=173 | 捏造陷阱 -NTR- |
