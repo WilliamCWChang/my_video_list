@@ -1,6 +1,7 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | -1 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
+ | v | v | 03 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
+ | v |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
  |   |   | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 14 | 14 | https://anime1.me/?cat=81 | 刀劍神域 (Sword Art Online) |
  |   |   | 14 | 14 | https://anime1.me/?cat=82 | 刀劍神域 (Sword Art Online) |
@@ -24,7 +25,6 @@
  |   | v | -1 | 02 | https://anime1.me/?cat=536 | Carole & Tuesday |
  |   | v | -1 | 02 | https://anime1.me/?cat=538 | 文豪野犬 (文豪Stray Dogs) 第三季 |
  |   | v | -1 | 03 | https://anime1.me/?cat=372 | 搖曳莊的幽奈小姐 OVA |
- |   | v | -1 | 03 | https://anime1.me/?cat=504 | 續‧終物語 |
  |   | v | -1 | 03 | https://anime1.me/?cat=506 | 一騎當千 Western Wolves |
  |   | v | -1 | 03 | https://anime1.me/?cat=508 | YU-NO 在這世界盡頭詠唱愛的少女 |
  |   | v | -1 | 03 | https://anime1.me/?cat=509 | 鑽石王牌 act2 |
