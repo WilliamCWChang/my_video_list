@@ -1,8 +1,8 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | 03 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
- | v |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
- |   |   | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
+ | v | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
+ |   | v | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
+ |   |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
  |   |   | 14 | 14 | https://anime1.me/?cat=81 | 刀劍神域 (Sword Art Online) |
  |   |   | 14 | 14 | https://anime1.me/?cat=82 | 刀劍神域 (Sword Art Online) |
  |   |   | 25 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事 |
