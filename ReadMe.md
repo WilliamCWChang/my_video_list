@@ -1,5 +1,6 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
+ | v | v | -1 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
  |   |   | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 14 | 14 | https://anime1.me/?cat=81 | 刀劍神域 (Sword Art Online) |
  |   |   | 14 | 14 | https://anime1.me/?cat=82 | 刀劍神域 (Sword Art Online) |
@@ -308,7 +309,6 @@
  |   | v | -1 | 12 | https://anime1.me/?cat=434 | 大人的防具店 |
  |   | v | -1 | 12 | https://anime1.me/?cat=435 | 不受歡迎之家 |
  |   | v | -1 | 12 | https://anime1.me/?cat=436 | CONCEPTION 為我而生(產子救世錄) |
- |   | v | -1 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
  |   | v | -1 | 12 | https://anime1.me/?cat=440 | 只要別西卜大小姐喜歡就好 |
  |   | v | -1 | 12 | https://anime1.me/?cat=443 | Fate/kaleid liner 魔法少女☆伊莉雅 3rei!! |
  |   | v | -1 | 12 | https://anime1.me/?cat=444 | 梅露可物語 -無氣力少年與瓶中少女- |
