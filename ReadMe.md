@@ -1,7 +1,8 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
- | v |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
+ | v | v | -1 | 05 | https://anime1.me/?cat=521 | 鬼滅之刃 |
+ |   | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
+ |   |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
  |   |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
  |   |   | 14 | 14 | https://anime1.me/?cat=81 | 刀劍神域 (Sword Art Online) |
  |   |   | 14 | 14 | https://anime1.me/?cat=82 | 刀劍神域 (Sword Art Online) |
@@ -38,7 +39,6 @@
  |   | v | -1 | 03 | https://anime1.me/?cat=518 | 高中女生 |
  |   | v | -1 | 03 | https://anime1.me/?cat=519 | 信長老師的年幼妻子 |
  |   | v | -1 | 03 | https://anime1.me/?cat=520 | MIX |
- |   | v | -1 | 03 | https://anime1.me/?cat=521 | 鬼滅之刃 |
  |   | v | -1 | 03 | https://anime1.me/?cat=522 | 我們真的學不來！ |
  |   | v | -1 | 03 | https://anime1.me/?cat=523 | 一弦定音！ |
  |   | v | -1 | 03 | https://anime1.me/?cat=525 | 消滅都市 |
