@@ -1,6 +1,6 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | -1 | 05 | https://anime1.me/?cat=521 | 鬼滅之刃 |
+ | v | v | 05 | 07 | https://anime1.me/?cat=521 | 鬼滅之刃 |
  |   | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
  |   |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
