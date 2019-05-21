@@ -1,4 +1,3 @@
-# coding:gbk
 import csv
 import requests
 from bs4 import BeautifulSoup
@@ -40,8 +39,6 @@ def sort_comic_list(comic_list):
     disable_list = []
 
     for index, comic in enumerate(comic_list):
-        if index < 2:
-            continue
         print(comic)
         enable = comic[0]
         unread = comic[1]
@@ -72,7 +69,7 @@ for comic in get_comic_list_from_markdown(filename):
         r = requests.get(comic["url"])
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        if "近期文章" in soup.main.h2.text:
+        if "杩戞湡鏂囩珷" in soup.main.h2.text:
             # print("The page is not found. url={}".format(comic["url"]))
             continue
 
@@ -83,8 +80,11 @@ for comic in get_comic_list_from_markdown(filename):
         last_video_num = -1
         for text in soup.main.find_all('h2'):
             if video_title not in text.text:
-                if "文章分頁" in text.text:
+                if "鏂囩珷鍒嗛爜" in text.text:
                     continue
+                elif "鏂囩珷灏庤" in text.text:
+                    continue
+
                 else:
                     print("video_title = {}\t text.text = {}".format(video_title, text.text))
                     last_video_num = -1
@@ -112,6 +112,9 @@ for comic in get_comic_list_from_markdown(filename):
     ]
     set_comic_list.append(data)
 
+
+print(set_comic_list)
+
 set_comic_list = sort_comic_list(set_comic_list)
 
 
@@ -119,5 +122,4 @@ data = ["Enable|Unread|My|Now|Url|Name"]
 set_comic_list.insert(0, data)
 data = [":-:|:-:|:-:|:-:|:-:|:-:"]
 set_comic_list.insert(1, data)
-
 set_comic_list_to_markdown(filename, set_comic_list)
