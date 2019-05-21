@@ -1,6 +1,10 @@
  | Enable|Unread|My|Now|Url|Name |
  | :-:|:-:|:-:|:-:|:-:|:-: |
- | v | v | 05 | 07 | https://anime1.me/?cat=521 | 鬼滅之刃 |
+ | v | v | 02 | 06 | https://anime1.me/?cat=534 | 賢者之孫 |
+ | v | v | 14 | 19 | https://anime1.me/?cat=472 | 多羅羅 |
+ | v | v | 17 | 26 | https://anime1.me/?cat=324 | 女神異聞錄5 |
+ | v |   | 07 | 07 | https://anime1.me/?cat=521 | 鬼滅之刃 |
+ | v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季) |
  |   | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手 |
  |   |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語 |
  |   |   | 12 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里 |
@@ -371,7 +375,6 @@
  |   | v | -1 | 13 | https://anime1.me/?cat=245 | 偶像大師 灰姑娘女孩劇場 第二季 |
  |   | v | -1 | 13 | https://anime1.me/?cat=254 | 比宇宙更遠的地方 |
  |   | v | -1 | 13 | https://anime1.me/?cat=255 | 衛宮家今天的餐桌風景(衛宮家今天的飯) |
- |   | v | -1 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季) |
  |   | v | -1 | 13 | https://anime1.me/?cat=273 | 紫羅蘭永恆花園 |
  |   | v | -1 | 13 | https://anime1.me/?cat=29 | 小林家的女僕龍 |
  |   | v | -1 | 13 | https://anime1.me/?cat=290 | Fate/EXTRA Last Encore |
@@ -467,9 +470,6 @@
  |   | v | -1 | 84 | https://anime1.me/?cat=144 | 遊戲王VRAINS |
  |   | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100 |
  |   | v | 02 | 04 | https://anime1.me/?cat=532 | 異世界四重奏 |
- |   | v | 02 | 04 | https://anime1.me/?cat=534 | 賢者之孫 |
  |   | v | 02 | 04 | https://anime1.me/?cat=537 | 皿三昧 |
  |   | v | 03 | 04 | https://anime1.me/?cat=524 | 深夜的超自然公務員 |
  |   | v | 10 | 15 | https://anime1.me/?cat=465 | 盾之勇者成名錄 |
- |   | v | 14 | 16 | https://anime1.me/?cat=472 | 多羅羅 |
- |   | v | 17 | 26 | https://anime1.me/?cat=324 | 女神異聞錄5 |
