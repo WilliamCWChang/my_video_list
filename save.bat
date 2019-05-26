@@ -7,4 +7,4 @@ git ci -m "add new record"
 git pull
 git push
 echo finish
-PAUSE
+rem PAUSE
