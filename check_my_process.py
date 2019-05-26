@@ -42,7 +42,7 @@ def sort_comic_list(comic_list):
     disable_list = []
 
     for index, comic in enumerate(comic_list):
-        print(comic)
+        # print(comic)
         enable = comic[0]
         unread = comic[1]
 
@@ -66,7 +66,7 @@ def get_video_info(url):
     soup = BeautifulSoup(r.text, 'html.parser')
     if len(soup.find_all("h2")) != 0:
         titles = soup.find_all('h2')
-        print(titles[0].text)
+        # print(titles)
         if titles[0].text == '近期文章':
             return video_info
 
@@ -76,17 +76,17 @@ def get_video_info(url):
             title = title.text
             if "[" in title:
                 now_num = title.split("[")[1].split("]")[0]
-                now_num = ''.join(re.findall('[0-9]+', now_num))
+                now_num = ''.join(re.findall('[0-9]+.', now_num))
                 now_num = -1 if now_num == '' else now_num
-                now_num_list.append(int(now_num))
-        video_info["now"] = max(now_num_list)
+                now_num_list.append(float(now_num))
+        video_info["now"] = int(max(now_num_list))
     return video_info
 
 
 def refresh_data(filename):
     set_comic_list = []
     for comic in get_comic_list_from_markdown(filename):
-        print(int(comic["now"]))
+        print((comic["title"]))        
         if comic["enable"]:
             try:
                 video_info = get_video_info(comic["url"])
