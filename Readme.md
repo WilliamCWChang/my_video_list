@@ -1,6 +1,25 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|    | v | -1 | 10 | https://anime1.me/?cat=4 | 為美好的世界獻上祝福！|
+|  v | v | 02 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | 14 | 19 | https://anime1.me/?cat=472 | 多羅羅|
+|  v | v | 07 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
+|  v |   | 31 | 31 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
+|  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|    | v | 02 | 07 | https://anime1.me/?cat=532 | 異世界四重奏|
+|    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
+|    | v | 02 | 07 | https://anime1.me/?cat=537 | 皿三昧|
+|    | v | 03 | 07 | https://anime1.me/?cat=524 | 深夜的超自然公務員|
+|    | v | 10 | 20 | https://anime1.me/?cat=465 | 盾之勇者成名錄|
+|    | v | -1 | 13 | https://anime1.me/?cat=474 | 路人超能100 II (第二季)|
+|    | v | -1 | 13 | https://anime1.me/?cat=384 | OVERLORD III (第三季)|
+|    | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|    | v | -1 | 12 | https://anime1.me/?cat=433 | 黃金神威 第二季|
+|    | v | -1 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
+|    | v | -1 | 12 | https://anime1.me/?cat=487 | 格林筆記 The Animation|
+|    | v | -1 | 12 | https://anime1.me/?cat=322 | 刀劍神域外傳Gun Gale Online|
+|    | v | -1 | 03 | https://anime1.me/?cat=542 | 甲鐵城的卡巴內里 海門決戰|
+|    | v | -1 | 12 | https://anime1.me/?cat=341 | Butlers～千年百年物語～|
+|    | v | -1 | 12 | https://anime1.me/?cat=444 | 梅露可物語 -無氣力少年與瓶中少女-|
 |    | v | -1 | 12 | https://anime1.me/?cat=5 | Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言|
 |    | v | -1 | 13 | https://anime1.me/?cat=6 | LoveLive! Sunshine!!|
 |    | v | -1 | 13 | https://anime1.me/?cat=7 | 超・少年偵探團NEO|
@@ -13,7 +32,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=14 | 烏菈菈迷路帖|
 |    | v | -1 | 13 | https://anime1.me/?cat=15 | 學園少女突襲者(School Girl Strikers)|
 |    | v | -1 | 12 | https://anime1.me/?cat=16 | 青之驅魔師 京都不淨王篇|
-|    | v | -1 | 65 | https://anime1.me/?cat=17 | 幼女戰記|
 |    | v | -1 | 13 | https://anime1.me/?cat=18 | 亞人醬有話要說|
 |    | v | -1 | 13 | https://anime1.me/?cat=20 | 南鎌倉高校女子自行車社|
 |    | v | -1 | 12 | https://anime1.me/?cat=21 | élDLIVE宇宙警探|
@@ -23,7 +41,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=25 | Hand Shakers|
 |    | v | -1 | 12 | https://anime1.me/?cat=26 | One Room|
 |    | v | -1 | 12 | https://anime1.me/?cat=27 | 人渣的本願|
-|    | v | -1 | 10 | https://anime1.me/?cat=28 | 為美好的世界獻上祝福！ 第二季|
 |    | v | -1 | 13 | https://anime1.me/?cat=29 | 小林家的女僕龍|
 |    | v | -1 | 14 | https://anime1.me/?cat=30 | CHAOS;CHILD|
 |    | v | -1 | 12 | https://anime1.me/?cat=31 | ACCA13 區監察課|
@@ -38,7 +55,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=41 | BanG Dream!|
 |    | v | -1 | 12 | https://anime1.me/?cat=42 | 新撰組鎮魂歌|
 |    | v | -1 | 12 | https://anime1.me/?cat=43 | 高校艦隊|
-|    | v | -1 | 12 | https://anime1.me/?cat=44 | 甲鐵城的卡巴內里|
 |    | v | -1 | 10 | https://anime1.me/?cat=45 | Fate/kaleid liner 魔法少女☆伊莉雅|
 |    | v | -1 | 10 | https://anime1.me/?cat=46 | Fate/kaleid liner 魔法少女☆伊莉雅|
 |    | v | -1 | 121 | https://anime1.me/?cat=48 | 動物朋友|
@@ -62,7 +78,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=66 | 高校艦隊|
 |    | v | -1 | 12 | https://anime1.me/?cat=67 | 約會大作戰 劇場版 審判萬由里|
 |    | v | -1 | 12 | https://anime1.me/?cat=68 | 學園孤島|
-|    | v | -1 | 12 | https://anime1.me/?cat=69 | 路人超能100|
 |    | v | -1 | 84 | https://anime1.me/?cat=71 | 春宵苦短，少女前進吧！|
 |    | v | -1 | 12 | https://anime1.me/?cat=72 | 情色漫畫老師|
 |    | v | -1 | 12 | https://anime1.me/?cat=73 | 魔裝學園H×H|
@@ -73,12 +88,8 @@
 |    | v | -1 | 11 | https://anime1.me/?cat=78 | 夏目友人帳 伍|
 |    | v | -1 | 25 | https://anime1.me/?cat=79 | 我的英雄學院 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=80 | 雛子的筆記|
-|    | v | -1 | 14 | https://anime1.me/?cat=81 | 刀劍神域 (Sword Art Online)|
-|    | v | -1 | 14 | https://anime1.me/?cat=82 | 刀劍神域 (Sword Art Online)|
 |    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=84 | 碧藍幻想|
-|    | v | -1 | 14 | https://anime1.me/?cat=85 | 刀劍神域 第二季 (Sword Art Online II)|
-|    | v | -1 | 14 | https://anime1.me/?cat=86 | 刀劍神域 第二季 (Sword Art Online II)|
 |    | v | -1 | 12 | https://anime1.me/?cat=87 | 與僧侶交合的色慾之夜|
 |    | v | -1 | 12 | https://anime1.me/?cat=88 | 怪怪守護神|
 |    | v | -1 | 13 | https://anime1.me/?cat=89 | 約會大作戰|
@@ -131,7 +142,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=138 | 銀之守墓人|
 |    | v | -1 | 12 | https://anime1.me/?cat=139 | 田中君總是如此慵懶|
 |    | v | -1 | 12 | https://anime1.me/?cat=140 | 緋彈的亞莉亞AA|
-|    | v | -1 | 12 | https://anime1.me/?cat=141 | 曆物語|
 |    | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手|
 |    | v | -1 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |    | v | -1 | 84 | https://anime1.me/?cat=144 | 遊戲王VRAINS|
@@ -162,7 +172,6 @@
 |    | v | -1 | 26 | https://anime1.me/?cat=172 | 妖怪公寓的優雅日常|
 |    | v | -1 | 12 | https://anime1.me/?cat=173 | 捏造陷阱 -NTR-|
 |    | v | -1 | 12 | https://anime1.me/?cat=174 | 最遊記 RELOAD BLAST|
-|    | v | -1 | 13 | https://anime1.me/?cat=175 | 來自深淵|
 |    | v | -1 | 13 | https://anime1.me/?cat=176 | 時間支配者|
 |    | v | -1 | 12 | https://anime1.me/?cat=177 | DIVE!!跳水男孩|
 |    | v | -1 | 12 | https://anime1.me/?cat=178 | 動作女英雄CheerFruit|
@@ -175,7 +184,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=186 | 戰鬥女子學園|
 |    | v | -1 | 12 | https://anime1.me/?cat=187 | 天使的3P|
 |    | v | -1 | 12 | https://anime1.me/?cat=188 | 梵蒂岡奇蹟調查官|
-|    | v | -1 | 12 | https://anime1.me/?cat=189 | 帶著智慧型手機闖蕩異世界。|
 |    | v | -1 | 12 | https://anime1.me/?cat=190 | 猜謎王|
 |    | v | -1 | 12 | https://anime1.me/?cat=191 | 野良和皇女和野貓之心|
 |    | v | -1 | 10 | https://anime1.me/?cat=192 | 辣妹與我的第一次(第一次的辣妹)|
@@ -221,7 +229,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=234 | 偶像大師SideM|
 |    | v | -1 | 12 | https://anime1.me/?cat=235 | 泥鯨之子們在沙地上歌唱|
 |    | v | -1 | 12 | https://anime1.me/?cat=236 | LOVE 米 -WE LOVE RICE- 第二季|
-|    | v | -1 | 10 | https://anime1.me/?cat=237 | 網路勝利組|
 |    | v | -1 | 11 | https://anime1.me/?cat=238 | 殺戮重生犬屋敷|
 |    | v | -1 | 06 | https://anime1.me/?cat=239 | 結城友奈是勇者 鷲尾須美之章|
 |    | v | -1 | 22 | https://anime1.me/?cat=240 | 3月的獅子 第二季|
@@ -230,7 +237,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=245 | 偶像大師 灰姑娘女孩劇場 第二季|
 |    | v | -1 | 06 | https://anime1.me/?cat=246 | 結城友奈是勇者 勇者之章|
 |    | v | -1 | 49 | https://anime1.me/?cat=248 | 童話魔法使|
-|    | v | -1 | 12 | https://anime1.me/?cat=249 | 爆肝工程師的異世界狂想曲|
 |    | v | -1 | 12 | https://anime1.me/?cat=250 | 龍王的工作！|
 |    | v | -1 | 12 | https://anime1.me/?cat=251 | 博多豚骨拉麵團|
 |    | v | -1 | 12 | https://anime1.me/?cat=252 | 三顆星彩色冒險|
@@ -253,7 +259,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=269 | 擅長捉弄人的高木同學|
 |    | v | -1 | 12 | https://anime1.me/?cat=270 | 續『刀劍亂舞－花丸－』(第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=271 | 學園奶爸|
-|    | v | -1 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |    | v | -1 | 13 | https://anime1.me/?cat=273 | 紫羅蘭永恆花園|
 |    | v | -1 | 12 | https://anime1.me/?cat=274 | 愛在雨過天晴時|
 |    | v | -1 | 12 | https://anime1.me/?cat=275 | 童話魔法使|
@@ -267,7 +272,6 @@
 |    | v | -1 | 17 | https://anime1.me/?cat=283 | 偶像星願(IDOLiSH7)|
 |    | v | -1 | 24 | https://anime1.me/?cat=284 | 櫻花忍法帖|
 |    | v | -1 | 25 | https://anime1.me/?cat=285 | 飆速宅男 GLORY LINE (第四季)|
-|    | v | -1 | 24 | https://anime1.me/?cat=286 | 齊木楠雄的災難 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=287 | 牙鬥獸娘(KILLING BITES)|
 |    | v | -1 | 10 | https://anime1.me/?cat=288 | 惡魔人 Crybaby|
 |    | v | -1 | 12 | https://anime1.me/?cat=289 | 七美德|
@@ -291,7 +295,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=310 | ALICE OR ALICE～妹控哥哥與雙胞胎妹妹～|
 |    | v | -1 | 13 | https://anime1.me/?cat=311 | 多田君不戀愛|
 |    | v | -1 | 12 | https://anime1.me/?cat=312 | 漫畫女孩|
-|    | v | -1 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5|
 |    | v | -1 | 50 | https://anime1.me/?cat=314 | 偶像學園Friends！|
 |    | v | -1 | 13 | https://anime1.me/?cat=315 | MEGALO BOX|
 |    | v | -1 | 12 | https://anime1.me/?cat=316 | 罪人與龍共舞|
@@ -300,9 +303,7 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=319 | 錢進球場|
 |    | v | -1 | 12 | https://anime1.me/?cat=320 | 魔法少女網站|
 |    | v | -1 | 25 | https://anime1.me/?cat=321 | 我的英雄學院 第三季|
-|    | v | -1 | 55 | https://anime1.me/?cat=322 | 刀劍神域外傳Gun Gale Online|
 |    | v | -1 | 12 | https://anime1.me/?cat=323 | DEVILSLINE 惡魔戰線|
-|    | v | -1 | 265 | https://anime1.me/?cat=324 | 女神異聞錄5|
 |    | v | -1 | 12 | https://anime1.me/?cat=325 | 失憶融合WIXOSS(Lostorage conflated WIXOSS)|
 |    | v | -1 | 12 | https://anime1.me/?cat=326 | 卡利古拉(Caligula)|
 |    | v | -1 | 56 | https://anime1.me/?cat=327 | 咯咯咯鬼太郎 第六季|
@@ -317,9 +318,7 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=336 | 銀河英雄傳說 Die Neue These 邂逅|
 |    | v | -1 | 12 | https://anime1.me/?cat=337 | 平交道時間|
 |    | v | -1 | 12 | https://anime1.me/?cat=338 | 惡魔高校 D×D HERO(第四季)|
-|    | v | -1 | 23 | https://anime1.me/?cat=339 | 命運石之門0|
 |    | v | -1 | 12 | https://anime1.me/?cat=340 | 最終休止符|
-|    | v | -1 | 12 | https://anime1.me/?cat=341 | Butlers～千年百年物語～|
 |    | v | -1 | 11 | https://anime1.me/?cat=342 | 阿宅的戀愛太難|
 |    | v | -1 | 12 | https://anime1.me/?cat=343 | 異世界居酒屋「阿信」|
 |    | v | -1 | 12 | https://anime1.me/?cat=344 | 奴隸區 我與23個奴隸|
@@ -336,7 +335,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=359 | 前進吧！登山少女(向山進發) 第三季|
 |    | v | -1 | 10 | https://anime1.me/?cat=360 | Back Street Girls~後街女孩~|
 |    | v | -1 | 95 | https://anime1.me/?cat=361 | 千銃士|
-|    | v | -1 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川|
 |    | v | -1 | 12 | https://anime1.me/?cat=363 | 夢王國與沉睡中的100位王子殿下|
 |    | v | -1 | 12 | https://anime1.me/?cat=364 | 異世界魔王與召喚少女的奴隸魔術|
 |    | v | -1 | 12 | https://anime1.me/?cat=365 | 春原莊的管理員小姐|
@@ -357,7 +355,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=381 | 邪神與廚二病少女|
 |    | v | -1 | 26 | https://anime1.me/?cat=382 | BanG Dream! Girls Band Party!☆PICO|
 |    | v | -1 | 13 | https://anime1.me/?cat=383 | 偶像大師 灰姑娘女孩劇場 第三季|
-|    | v | -1 | 13 | https://anime1.me/?cat=384 | OVERLORD III (第三季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=385 | Angolmois 元寇合戰記|
 |    | v | -1 | 12 | https://anime1.me/?cat=386 | Free!-Dive to the Future-(第三季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=387 | Happy Sugar Life|
@@ -370,17 +367,13 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=394 | 少女☆歌劇Revue Starlight|
 |    | v | -1 | 16 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |    | v | -1 | 12 | https://anime1.me/?cat=398 | 魔法律事務所|
-|    | v | -1 | 285 | https://anime1.me/?cat=399 | JoJo的奇妙冒險 黃金之風|
 |    | v | -1 | 13 | https://anime1.me/?cat=400 | DOUBLE DECKER! 道格&西里爾|
-|    | v | -1 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事|
 |    | v | -1 | 13 | https://anime1.me/?cat=402 | 青春豬頭少年不會夢到兔女郎學姊|
 |    | v | -1 | 26 | https://anime1.me/?cat=403 | 魔法禁書目錄Ⅲ (第三季)|
-|    | v | -1 | 185 | https://anime1.me/?cat=404 | 刀劍神域 Alicization (第三季)|
 |    | v | -1 | 13 | https://anime1.me/?cat=405 | 宇宙戰艦提拉米斯 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=406 | 蒼天之拳 REGENESIS 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=407 | 夕照少女(茜色少女)|
 |    | v | -1 | 25 | https://anime1.me/?cat=408 | 爆釣 Bar Hunter|
-|    | v | -1 | 23 | https://anime1.me/?cat=409 | 強風吹拂|
 |    | v | -1 | 13 | https://anime1.me/?cat=410 | 軒轅劍 蒼之曜|
 |    | v | -1 | 12 | https://anime1.me/?cat=411 | 嫁給非人類|
 |    | v | -1 | 12 | https://anime1.me/?cat=412 | RErideD -穿越時空的德希達-|
@@ -391,21 +384,17 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=417 | 錢進球場 第二季|
 |    | v | -1 | 24 | https://anime1.me/?cat=418 | 火之丸相撲|
 |    | v | -1 | 13 | https://anime1.me/?cat=419 | 我家的女僕有夠煩！|
-|    | v | -1 | 285 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |    | v | -1 | 13 | https://anime1.me/?cat=421 | 來自繽紛世界的明日|
 |    | v | -1 | 12 | https://anime1.me/?cat=422 | 寄宿學校的茱麗葉|
 |    | v | -1 | 13 | https://anime1.me/?cat=423 | 我讓最想被擁抱的男人給威脅了|
 |    | v | -1 | 23 | https://anime1.me/?cat=424 | 逆轉裁判 Season2 (第二季)|
 |    | v | -1 | 21 | https://anime1.me/?cat=425 | Radiant 虛空魔境|
 |    | v | -1 | 12 | https://anime1.me/?cat=426 | SSSS.GRIDMAN|
-|    | v | -1 | 105 | https://anime1.me/?cat=427 | 哥布林殺手|
 |    | v | -1 | 12 | https://anime1.me/?cat=428 | RELEASE THE SPYCE (月影特工)|
 |    | v | -1 | 12 | https://anime1.me/?cat=429 | 尤利西斯 貞德與鍊金騎士|
 |    | v | -1 | 12 | https://anime1.me/?cat=430 | Anima Yell!|
 |    | v | -1 | 12 | https://anime1.me/?cat=431 | 書店裡的骷髏店員本田|
 |    | v | -1 | 12 | https://anime1.me/?cat=432 | 東京喰種:re 第二季|
-|    | v | -1 | 12 | https://anime1.me/?cat=433 | 黃金神威 第二季|
-|    | v | -1 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
 |    | v | -1 | 12 | https://anime1.me/?cat=435 | 不受歡迎之家|
 |    | v | -1 | 12 | https://anime1.me/?cat=436 | CONCEPTION 為我而生(產子救世錄)|
 |    | v | -1 | 10 | https://anime1.me/?cat=437 | 我喜歡的妹妹不是妹妹(我喜歡的是小說裏的你)|
@@ -415,7 +404,6 @@
 |    | v | -1 | 10 | https://anime1.me/?cat=441 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei!|
 |    | v | -1 | 10 | https://anime1.me/?cat=442 | Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!|
 |    | v | -1 | 12 | https://anime1.me/?cat=443 | Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!|
-|    | v | -1 | 12 | https://anime1.me/?cat=444 | 梅露可物語 -無氣力少年與瓶中少女-|
 |    | v | -1 | 12 | https://anime1.me/?cat=445 | 閃亂神樂 SHINOVI MASTER -東京妖魔篇- (第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=446 | 末班車後，在膠囊旅館向上司傳遞微熱的夜晚。|
 |    | v | -1 | 12 | https://anime1.me/?cat=447 | 閃亂神樂|
@@ -428,19 +416,15 @@
 |    | v | -1 | 20 | https://anime1.me/?cat=457 | 天使降臨到我身邊！|
 |    | v | -1 | 10 | https://anime1.me/?cat=458 | 聖鬥士星矢 聖斗少女翔|
 |    | v | -1 | 04 | https://anime1.me/?cat=460 | 噬血狂襲 OVA 第三季|
-|    | v | -1 | 02 | https://anime1.me/?cat=461 | 齊木楠雄的災難 完結篇|
 |    | v | -1 | 12 | https://anime1.me/?cat=462 | 明治東京戀伽|
 |    | v | -1 | 00 | https://anime1.me/?cat=463 | 艾梅洛閣下II世事件簿 魔眼搜集列車 Grace note|
-|    | v | -1 | 20 | https://anime1.me/?cat=465 | 盾之勇者成名錄|
 |    | v | -1 | 13 | https://anime1.me/?cat=466 | BanG Dream! 2nd season(第二季)|
 |    | v | -1 | 18 | https://anime1.me/?cat=467 | 不吉波普不笑|
 |    | v | -1 | 12 | https://anime1.me/?cat=468 | 笑容的代價|
 |    | v | -1 | 13 | https://anime1.me/?cat=469 | 不愉快的妖怪庵 續 (第二季)|
 |    | v | -1 | 13 | https://anime1.me/?cat=470 | W’z|
 |    | v | -1 | 10 | https://anime1.me/?cat=471 | 迷你刀使|
-|    | v | -1 | 19 | https://anime1.me/?cat=472 | 多羅羅|
 |    | v | -1 | 12 | https://anime1.me/?cat=473 | 笨拙之極的上野|
-|    | v | -1 | 13 | https://anime1.me/?cat=474 | 路人超能100 II (第二季)|
 |    | v | -1 | 10 | https://anime1.me/?cat=475 | 巴哈姆特之怒 Manaria Friends (Mysteria Friends)|
 |    | v | -1 | 12 | https://anime1.me/?cat=476 | 天使降臨到我身邊！|
 |    | v | -1 | 12 | https://anime1.me/?cat=477 | 環戰公主 CIRCLET PRINCESS|
@@ -453,7 +437,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=484 | 同居人是貓(同居人時而在腿上，時而跑到腦袋上。)|
 |    | v | -1 | 12 | https://anime1.me/?cat=485 | 狂賭之淵×× (第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=486 | 五等分的新娘|
-|    | v | -1 | 12 | https://anime1.me/?cat=487 | 格林筆記 The Animation|
 |    | v | -1 | 12 | https://anime1.me/?cat=488 | 約會大作戰 III (第三季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=489 | B-PROJECT～絕頂＊Emotion～|
 |    | v | -1 | 12 | https://anime1.me/?cat=490 | 粉彩回憶|
@@ -468,7 +451,6 @@
 |    | v | -1 | 05 | https://anime1.me/?cat=499 | Hulaing Babies|
 |    | v | -1 | 12 | https://anime1.me/?cat=500 | 虛擬小姐在看著你|
 |    | v | -1 | 16 | https://anime1.me/?cat=502 | 星光☆閃亮 光之美少女|
-|    | v | -1 | 06 | https://anime1.me/?cat=504 | 續‧終物語|
 |    | v | -1 | 03 | https://anime1.me/?cat=506 | 一騎當千 Western Wolves|
 |    | v | -1 | 08 | https://anime1.me/?cat=507 | MIX|
 |    | v | -1 | 08 | https://anime1.me/?cat=508 | YU-NO 在這世界盡頭詠唱愛的少女|
@@ -484,10 +466,8 @@
 |    | v | -1 | 07 | https://anime1.me/?cat=518 | 高中女生|
 |    | v | -1 | 07 | https://anime1.me/?cat=519 | 信長老師的年幼妻子|
 |    | v | -1 | 08 | https://anime1.me/?cat=520 | MIX|
-|    | v | -1 | 07 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |    | v | -1 | 07 | https://anime1.me/?cat=522 | 我們真的學不來！|
 |    | v | -1 | 07 | https://anime1.me/?cat=523 | 一弦定音！|
-|    | v | -1 | 07 | https://anime1.me/?cat=524 | 深夜的超自然公務員|
 |    | v | -1 | 07 | https://anime1.me/?cat=525 | 消滅都市|
 |    | v | -1 | 07 | https://anime1.me/?cat=526 | 八月的棒球甜心|
 |    | v | -1 | 08 | https://anime1.me/?cat=527 | 八十龜觀察日記|
@@ -495,13 +475,9 @@
 |    | v | -1 | 07 | https://anime1.me/?cat=529 | 閃亮 美妙☆頻道 第二季|
 |    | v | -1 | 07 | https://anime1.me/?cat=530 | Fairy Gone|
 |    | v | -1 | 07 | https://anime1.me/?cat=531 | RobiHachi|
-|    | v | -1 | 07 | https://anime1.me/?cat=532 | 異世界四重奏|
 |    | v | -1 | 07 | https://anime1.me/?cat=533 | 強襲魔女 501部隊出動！|
-|    | v | -1 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
 |    | v | -1 | 07 | https://anime1.me/?cat=535 | 賢惠幼妻仙狐小姐 (請讓我撒嬌，仙狐大人！)|
 |    | v | -1 | 07 | https://anime1.me/?cat=536 | Carole & Tuesday|
-|    | v | -1 | 07 | https://anime1.me/?cat=537 | 皿三昧|
 |    | v | -1 | 07 | https://anime1.me/?cat=538 | 文豪野犬 (文豪Stray Dogs) 第三季|
 |    | v | -1 | 02 | https://anime1.me/?cat=539 | 灰色：幻影扳機|
-|    | v | -1 | 03 | https://anime1.me/?cat=542 | 甲鐵城的卡巴內里 海門決戰|
 |    | v | -1 | 02 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
