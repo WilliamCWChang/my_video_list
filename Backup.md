@@ -19,6 +19,10 @@
 |    |   | 24 | 24 | https://anime1.me/?cat=313 | 魯邦三世 PART5|
 |    |   | 24 | 24 | https://anime1.me/?cat=362 | 中間管理錄利根川|
 |    |   | 25 | 25 | https://anime1.me/?cat=401 | 關於我轉生變成史萊姆這檔事|
+|  v |   | 26 | 26 | https://anime1.me/?cat=324 | 女神異聞錄5|
+|  v |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語|
+|  v |   | 13 | 13 | https://anime1.me/?cat=175 | 來自深淵|
+
 
 # 不好看，算了
 |Enable|Unread|My|Now|Url|Name |
