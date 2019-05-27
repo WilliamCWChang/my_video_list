@@ -1,10 +1,17 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|  v | v | 02 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | 09 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
+|  v | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|  v |   | 07 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
 |  v |   | 20 | 20 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 08 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v |   | 31 | 31 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
+|    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
+|    | v | -1 | 26 | https://anime1.me/?cat=354 | 進擊的巨人 第三季|
+|    | v | -1 | 16 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
+|    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
 |    | v | 02 | 07 | https://anime1.me/?cat=532 | 異世界四重奏|
 |    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
 |    | v | 02 | 07 | https://anime1.me/?cat=537 | 皿三昧|
@@ -12,7 +19,6 @@
 |    | v | 10 | 20 | https://anime1.me/?cat=465 | 盾之勇者成名錄|
 |    | v | -1 | 13 | https://anime1.me/?cat=474 | 路人超能100 II (第二季)|
 |    | v | -1 | 13 | https://anime1.me/?cat=384 | OVERLORD III (第三季)|
-|    | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
 |    | v | -1 | 12 | https://anime1.me/?cat=433 | 黃金神威 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
 |    | v | -1 | 12 | https://anime1.me/?cat=487 | 格林筆記 The Animation|
@@ -61,7 +67,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=49 | 魔法少女育成計劃|
 |    | v | -1 | 12 | https://anime1.me/?cat=50 | 少女編號|
 |    | v | -1 | 12 | https://anime1.me/?cat=51 | 我老婆是學生會長！+！|
-|    | v | -1 | 13 | https://anime1.me/?cat=52 | 在地下城尋求邂逅是否搞錯了什麼|
 |    | v | -1 | 14 | https://anime1.me/?cat=53 | 食戟之靈|
 |    | v | -1 | 12 | https://anime1.me/?cat=54 | NEW GAME!|
 |    | v | -1 | 12 | https://anime1.me/?cat=55 | 不起眼女主角培育法|
@@ -88,12 +93,10 @@
 |    | v | -1 | 11 | https://anime1.me/?cat=78 | 夏目友人帳 伍|
 |    | v | -1 | 25 | https://anime1.me/?cat=79 | 我的英雄學院 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=80 | 雛子的筆記|
-|    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=84 | 碧藍幻想|
 |    | v | -1 | 12 | https://anime1.me/?cat=87 | 與僧侶交合的色慾之夜|
 |    | v | -1 | 12 | https://anime1.me/?cat=88 | 怪怪守護神|
 |    | v | -1 | 13 | https://anime1.me/?cat=89 | 約會大作戰|
-|    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
 |    | v | -1 | 12 | https://anime1.me/?cat=91 | 黑色推銷員NEW|
 |    | v | -1 | 11 | https://anime1.me/?cat=92 | 不起眼女主角培育法♭ (第二季)|
 |    | v | -1 | 08 | https://anime1.me/?cat=93 | 偶像大師 灰姑娘女孩劇場|
@@ -129,7 +132,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=124 | 喧嘩番長 乙女-Girl Beats Boys-|
 |    | v | -1 | 12 | https://anime1.me/?cat=125 | 覆面系NOISE|
 |    | v | -1 | 45 | https://anime1.me/?cat=126 | sin 七大罪|
-|    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
 |    | v | -1 | 12 | https://anime1.me/?cat=128 | 飛翔的魔女|
 |    | v | -1 | 11 | https://anime1.me/?cat=129 | 約會大作戰 II (第二季)|
 |    | v | -1 | 25 | https://anime1.me/?cat=131 | 境界之輪迴 第三季|
@@ -143,7 +145,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=139 | 田中君總是如此慵懶|
 |    | v | -1 | 12 | https://anime1.me/?cat=140 | 緋彈的亞莉亞AA|
 |    | v | -1 | 12 | https://anime1.me/?cat=142 | 全職高手|
-|    | v | -1 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |    | v | -1 | 84 | https://anime1.me/?cat=144 | 遊戲王VRAINS|
 |    | v | -1 | 12 | https://anime1.me/?cat=145 | 小金剛起源|
 |    | v | -1 | 04 | https://anime1.me/?cat=146 | 擴張少女系三重奏(擴張少女系Trinary)|
@@ -327,7 +328,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=347 | Hisone與Masotan|
 |    | v | -1 | 25 | https://anime1.me/?cat=348 | 棒球大聯盟2nd|
 |    | v | -1 | 13 | https://anime1.me/?cat=352 | 食戟之靈 貳之皿(第二季)|
-|    | v | -1 | 26 | https://anime1.me/?cat=354 | 進擊的巨人 第三季|
 |    | v | -1 | 12 | https://anime1.me/?cat=355 | ISLAND|
 |    | v | -1 | 26 | https://anime1.me/?cat=356 | 刃牙 死囚篇|
 |    | v | -1 | 13 | https://anime1.me/?cat=357 | 羽球戰爭！(輕羽飛揚)|
@@ -365,7 +365,6 @@
 |    | v | -1 | 15 | https://anime1.me/?cat=392 | 高分少女|
 |    | v | -1 | 12 | https://anime1.me/?cat=393 | 搖曳莊的幽奈小姐|
 |    | v | -1 | 12 | https://anime1.me/?cat=394 | 少女☆歌劇Revue Starlight|
-|    | v | -1 | 16 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |    | v | -1 | 12 | https://anime1.me/?cat=398 | 魔法律事務所|
 |    | v | -1 | 13 | https://anime1.me/?cat=400 | DOUBLE DECKER! 道格&西里爾|
 |    | v | -1 | 13 | https://anime1.me/?cat=402 | 青春豬頭少年不會夢到兔女郎學姊|
