@@ -1,8 +1,8 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  v | v | 02 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
-|  v | v | 14 | 19 | https://anime1.me/?cat=472 | 多羅羅|
-|  v | v | 07 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
+|  v |   | 20 | 20 | https://anime1.me/?cat=472 | 多羅羅|
+|  v |   | 08 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v |   | 31 | 31 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |    | v | 02 | 07 | https://anime1.me/?cat=532 | 異世界四重奏|
