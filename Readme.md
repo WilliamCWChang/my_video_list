@@ -3,9 +3,9 @@
 |  v | v | 09 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |  v | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
 |  v |   | 07 | 07 | https://anime1.me/?cat=534 | 賢者之孫|
-|  v |   | 20 | 20 | https://anime1.me/?cat=472 | 多羅羅|
-|  v |   | 08 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
-|  v |   | 31 | 31 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
+|  v |   | 21 | 20 | https://anime1.me/?cat=472 | 多羅羅|
+|  v |   | 09 | 08 | https://anime1.me/?cat=521 | 鬼滅之刃|
+|  v |   | 32 | 31 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
