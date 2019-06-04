@@ -29,10 +29,11 @@ def get_comic_list_from_markdown(filename):
 
 def set_comic_list_to_markdown(filename, comic_list):
     with open(filename, newline='', encoding='utf8', mode='w') as file:
-        # data_list = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        file.write("|Enable|Unread|My|Now|Url|Name |\n")
+        file.write("|:-:|:-:|:-:|:-:|:-:|:-:|\n")
         for comic in comic_list:
             # file.write(comic)
-            file.write(" | " + " | ".join(comic) + " |\n")
+            file.write("|  " + " | ".join(comic) + "|\n")
 
 
 def sort_comic_list(comic_list):
@@ -41,7 +42,7 @@ def sort_comic_list(comic_list):
     disable_list = []
 
     for index, comic in enumerate(comic_list):
-        print(comic)
+        # print(comic)
         enable = comic[0]
         unread = comic[1]
 
@@ -65,7 +66,7 @@ def get_video_info(url):
     soup = BeautifulSoup(r.text, 'html.parser')
     if len(soup.find_all("h2")) != 0:
         titles = soup.find_all('h2')
-        print(titles[0].text)
+        # print(titles)
         if titles[0].text == '近期文章':
             return video_info
 
@@ -75,52 +76,48 @@ def get_video_info(url):
             title = title.text
             if "[" in title:
                 now_num = title.split("[")[1].split("]")[0]
-                now_num = ''.join(re.findall('[0-9]+', now_num))
+                now_num = ''.join(re.findall('[0-9]+.', now_num))
                 now_num = -1 if now_num == '' else now_num
-                now_num_list.append(int(now_num))
-        video_info["now"] = max(now_num_list)
+                now_num_list.append(float(now_num))
+        video_info["now"] = int(max(now_num_list))
     return video_info
+
+
+def refresh_data(filename):
+    set_comic_list = []
+    for comic in get_comic_list_from_markdown(filename):
+        print((comic["title"]))
+        if comic["enable"]:
+            try:
+                video_info = get_video_info(comic["url"])
+                comic["now"] = video_info["now"]
+                comic["title"] = video_info["title"]
+            except Exception as e:
+                # Just Pass, And Do nothing!
+                pass
+            # Can not find anything in this url.
+            if video_info["now"] is -1:
+                continue
+
+        data = [
+            "v" if comic["enable"] else " ",
+            "v" if int(comic["my_process"]) != int(comic["now"]) else " ",
+            str(comic["my_process"]).strip().zfill(2),
+            str(comic["now"]).strip().zfill(2),
+            comic["url"].strip().replace(" ", ""),
+            comic["title"].strip()
+        ]
+        set_comic_list.append(data)
+    return set_comic_list
 
 
 def main():
     input_filename = 'Readme.md'
-    output_filename = 'Readme2.md'
-    set_comic_list = []
-    # print(input_filename)
-
-    # print(get_comic_list_from_markdown(input_filename))
-
-    for comic in get_comic_list_from_markdown(input_filename):
-        print(comic)
-        unread = comic["unread"]
-
-        if comic["enable"]:
-            video_info = get_video_info(comic["url"])
-            print(video_info["title"], video_info["now"])
-
-            if video_info["now"] is -1:
-                continue
-
-            unread = True if int(comic["my_process"]) != int(video_info["now"]) else False
-        data = [
-            "v" if comic["enable"] else " ",
-            "v" if unread else " ",
-            str(comic["my_process"]).zfill(2),
-            str(video_info["now"]).zfill(2).strip(" "),
-            comic["url"].replace(" ", ""),
-            video_info["title"].strip()
-        ]
-        set_comic_list.append(data)
-
+    output_filename = 'Readme.md'
+    set_comic_list = refresh_data(input_filename)
     set_comic_list = sort_comic_list(set_comic_list)
-
-    data = ["Enable|Unread|My|Now|Url|Name"]
-    set_comic_list.insert(0, data)
-    data = [":-:|:-:|:-:|:-:|:-:|:-:"]
-    set_comic_list.insert(1, data)
     set_comic_list_to_markdown(output_filename, set_comic_list)
 
 
 if __name__ == '__main__':
-    # main()
-    print("A")
+    main()
