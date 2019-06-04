@@ -3,7 +3,7 @@
 |  v | v | 09 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |  v | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
 |  v | v | 07 | 08 | https://anime1.me/?cat=534 | 賢者之孫|
-|  v | v | 12 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |  v |   | 21 | 21 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 09 | 09 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v |   | 32 | 32 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
