@@ -2,17 +2,17 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  v | v | 09 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |  v | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
-|  v | v | 07 | 08 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | 08 | 09 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | -1 | 09 | https://anime1.me/?cat=531 | RobiHachi|
+|  v |   | 18 | 18 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
+|  v |   | 09 | 09 | https://anime1.me/?cat=532 | 異世界四重奏|
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |  v |   | 21 | 21 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 09 | 09 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v |   | 32 | 32 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
-|    | v | -1 | 26 | https://anime1.me/?cat=354 | 進擊的巨人 第三季|
-|    | v | -1 | 16 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
-|    | v | 02 | 07 | https://anime1.me/?cat=532 | 異世界四重奏|
 |    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
 |    | v | 02 | 07 | https://anime1.me/?cat=537 | 皿三昧|
 |    | v | 03 | 07 | https://anime1.me/?cat=524 | 深夜的超自然公務員|
@@ -473,7 +473,6 @@
 |    | v | -1 | 07 | https://anime1.me/?cat=528 | 為什麼老師會在這裡！？|
 |    | v | -1 | 07 | https://anime1.me/?cat=529 | 閃亮 美妙☆頻道 第二季|
 |    | v | -1 | 07 | https://anime1.me/?cat=530 | Fairy Gone|
-|    | v | -1 | 07 | https://anime1.me/?cat=531 | RobiHachi|
 |    | v | -1 | 07 | https://anime1.me/?cat=533 | 強襲魔女 501部隊出動！|
 |    | v | -1 | 07 | https://anime1.me/?cat=535 | 賢惠幼妻仙狐小姐 (請讓我撒嬌，仙狐大人！)|
 |    | v | -1 | 07 | https://anime1.me/?cat=536 | Carole & Tuesday|
