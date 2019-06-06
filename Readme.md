@@ -1,9 +1,16 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+<<<<<<< HEAD
 |  v | v | -1 | 09 | https://anime1.me/?cat=531 | RobiHachi|
 |  v |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |  v |   | 09 | 09 | https://anime1.me/?cat=534 | 賢者之孫|
 |  v |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+=======
+|  v | v | 09 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
+|  v | v | 06 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|  v | v | -1 | 09 | https://anime1.me/?cat=531 | RobiHachi|
+|  v |   | 09 | 09 | https://anime1.me/?cat=534 | 賢者之孫|
+>>>>>>> 02b5fb4493a61ab5f30204f483ae7c011596099a
 |  v |   | 18 | 18 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v |   | 09 | 09 | https://anime1.me/?cat=532 | 異世界四重奏|
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
