@@ -22,7 +22,11 @@
 |  v |   | 26 | 26 | https://anime1.me/?cat=324 | 女神異聞錄5|
 |  v |   | 06 | 06 | https://anime1.me/?cat=504 | 續‧終物語|
 |  v |   | 13 | 13 | https://anime1.me/?cat=175 | 來自深淵|
-
+|  v |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
+|  v |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|    | v | 12 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
+|    | v | 14 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
 
 # 不好看，算了
 |Enable|Unread|My|Now|Url|Name |
