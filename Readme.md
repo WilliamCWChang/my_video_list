@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  v | v | -1 | 10 | https://anime1.me/?cat=531 | RobiHachi|
 |  v | v | 09 | 10 | https://anime1.me/?cat=521 | 鬼滅之刃|
-|  v | v | 32 | 33 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
+|  v | v | 32 | 34 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v | v | 18 | 19 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v | v | 21 | 22 | https://anime1.me/?cat=472 | 多羅羅|
 |  v | v | 09 | 10 | https://anime1.me/?cat=532 | 異世界四重奏|
