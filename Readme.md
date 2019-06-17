@@ -8,11 +8,11 @@
 |  v |   | 20 | 20 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v |   | 22 | 22 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 06 | 06 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
+|  v |   | 12 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
+|  v |   | 14 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
 |    |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
 |    |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
 |    |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
-|    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
-|    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
 |    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
 |    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
 |    | v | 02 | 07 | https://anime1.me/?cat=537 | 皿三昧|
