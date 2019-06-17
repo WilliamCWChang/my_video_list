@@ -1,15 +1,16 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  v | v | -1 | 10 | https://anime1.me/?cat=531 | RobiHachi|
-|  v | v | 09 | 11 | https://anime1.me/?cat=521 | 鬼滅之刃|
-|  v | v | 32 | 34 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
-|  v | v | 18 | 19 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
-|  v | v | 21 | 22 | https://anime1.me/?cat=472 | 多羅羅|
 |  v | v | 09 | 10 | https://anime1.me/?cat=532 | 異世界四重奏|
 |  v | v | 09 | 10 | https://anime1.me/?cat=534 | 賢者之孫|
-|  v |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
-|  v |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
-|  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|  v |   | 11 | 11 | https://anime1.me/?cat=521 | 鬼滅之刃|
+|  v |   | 34 | 34 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
+|  v |   | 20 | 20 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
+|  v |   | 22 | 22 | https://anime1.me/?cat=472 | 多羅羅|
+|  v |   | 06 | 06 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
+|    |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
+|    |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|    |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | -1 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
 |    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
@@ -478,4 +479,3 @@
 |    | v | -1 | 07 | https://anime1.me/?cat=536 | Carole & Tuesday|
 |    | v | -1 | 07 | https://anime1.me/?cat=538 | 文豪野犬 (文豪Stray Dogs) 第三季|
 |    | v | -1 | 02 | https://anime1.me/?cat=539 | 灰色：幻影扳機|
-|    | v | -1 | 02 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
