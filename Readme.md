@@ -3,16 +3,22 @@
 |  v | v | -1 | 10 | https://anime1.me/?cat=531 | RobiHachi|
 |  v | v | 09 | 10 | https://anime1.me/?cat=532 | 異世界四重奏|
 |  v | v | 09 | 10 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | -1 | 12 | https://anime1.me/?cat=48 | 動物朋友|
+|  v | v | -1 | 27 | https://anime1.me/?cat=99 | 火影忍者 慕留人 火影新世代|
+|  v | v | -1 | 13 | https://anime1.me/?cat=110 | 武裝少女Machiavellianism|
+|  v | v | -1 | 22 | https://anime1.me/?cat=111 | Re:CREATORS|
+|  v | v | -1 | 12 | https://anime1.me/?cat=112 | 戀愛暴君|
+|  v | v | -1 | 14 | https://anime1.me/?cat=156 | 暗殺教室 第二季|
+|  v | v | -1 | 26 | https://anime1.me/?cat=158 | 煙花(煙花，應該和誰看)|
+|  v | v | -1 | 12 | https://anime1.me/?cat=169 | 異世界食堂|
+|  v | v | -1 | 12 | https://anime1.me/?cat=250 | 龍王的工作！|
+|  v | v | -1 | 24 | https://anime1.me/?cat=284 | 櫻花忍法帖|
 |  v |   | 11 | 11 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v |   | 34 | 34 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 20 | 20 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v |   | 22 | 22 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 06 | 06 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
-|  v |   | 12 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
-|  v |   | 14 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
-|    |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
-|    |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
-|    |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
+|  v |   | 12 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
 |    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
 |    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
 |    | v | 02 | 07 | https://anime1.me/?cat=537 | 皿三昧|
@@ -21,7 +27,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=474 | 路人超能100 II (第二季)|
 |    | v | -1 | 13 | https://anime1.me/?cat=384 | OVERLORD III (第三季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=433 | 黃金神威 第二季|
-|    | v | -1 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
 |    | v | -1 | 12 | https://anime1.me/?cat=487 | 格林筆記 The Animation|
 |    | v | -1 | 12 | https://anime1.me/?cat=322 | 刀劍神域外傳Gun Gale Online|
 |    | v | -1 | 03 | https://anime1.me/?cat=542 | 甲鐵城的卡巴內里 海門決戰|
@@ -64,7 +69,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=43 | 高校艦隊|
 |    | v | -1 | 10 | https://anime1.me/?cat=45 | Fate/kaleid liner 魔法少女☆伊莉雅|
 |    | v | -1 | 10 | https://anime1.me/?cat=46 | Fate/kaleid liner 魔法少女☆伊莉雅|
-|    | v | -1 | 121 | https://anime1.me/?cat=48 | 動物朋友|
 |    | v | -1 | 12 | https://anime1.me/?cat=49 | 魔法少女育成計劃|
 |    | v | -1 | 12 | https://anime1.me/?cat=50 | 少女編號|
 |    | v | -1 | 12 | https://anime1.me/?cat=51 | 我老婆是學生會長！+！|
@@ -106,7 +110,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=96 | 王室教師海涅|
 |    | v | -1 | 25 | https://anime1.me/?cat=97 | SAKURA QUEST 櫻花任務|
 |    | v | -1 | 12 | https://anime1.me/?cat=98 | LOVE 米 -WE LOVE RICE-|
-|    | v | -1 | 27 | https://anime1.me/?cat=99 | 火影忍者 慕留人 火影新世代|
 |    | v | -1 | 12 | https://anime1.me/?cat=100 | 時鐘機關之星|
 |    | v | -1 | 24 | https://anime1.me/?cat=101 | 重啟咲良田|
 |    | v | -1 | 51 | https://anime1.me/?cat=102 | 偶像時間星光樂園|
@@ -116,9 +119,6 @@
 |    | v | -1 | 95 | https://anime1.me/?cat=107 | 烙印勇士 第二季|
 |    | v | -1 | 24 | https://anime1.me/?cat=108 | 巴哈姆特之怒 VIRGIN SOUL (第二季)|
 |    | v | -1 | 65 | https://anime1.me/?cat=109 | 正確的卡多|
-|    | v | -1 | 13 | https://anime1.me/?cat=110 | 武裝少女Machiavellianism|
-|    | v | -1 | 22 | https://anime1.me/?cat=111 | Re:CREATORS|
-|    | v | -1 | 12 | https://anime1.me/?cat=112 | 戀愛暴君|
 |    | v | -1 | 12 | https://anime1.me/?cat=113 | 有頂天家族 第二季|
 |    | v | -1 | 12 | https://anime1.me/?cat=114 | ID-0|
 |    | v | -1 | 55 | https://anime1.me/?cat=115 | 愛麗絲與藏六|
@@ -156,8 +156,6 @@
 |    | v | -1 | 02 | https://anime1.me/?cat=153 | 噬血狂襲 OVA|
 |    | v | -1 | 125 | https://anime1.me/?cat=154 | 噬血狂襲|
 |    | v | -1 | 125 | https://anime1.me/?cat=155 | 噬血狂襲|
-|    | v | -1 | 14 | https://anime1.me/?cat=156 | 暗殺教室 第二季|
-|    | v | -1 | 26 | https://anime1.me/?cat=158 | 煙花(煙花，應該和誰看)|
 |    | v | -1 | 12 | https://anime1.me/?cat=159 | 雛邏輯～來自幸運邏輯～(Hina Logic)|
 |    | v | -1 | 12 | https://anime1.me/?cat=160 | NEW GAME!! (第二季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=161 | 狂賭之淵|
@@ -168,7 +166,6 @@
 |    | v | -1 | 12 | https://anime1.me/?cat=166 | 裙子下的野獸|
 |    | v | -1 | 12 | https://anime1.me/?cat=167 | 潔癖男子青山！|
 |    | v | -1 | 12 | https://anime1.me/?cat=168 | 戀愛與謊言|
-|    | v | -1 | 12 | https://anime1.me/?cat=169 | 異世界食堂|
 |    | v | -1 | 12 | https://anime1.me/?cat=170 | 單蠢女孩|
 |    | v | -1 | 12 | https://anime1.me/?cat=171 | 徒然喜歡你(徒然CHILDREN)|
 |    | v | -1 | 26 | https://anime1.me/?cat=172 | 妖怪公寓的優雅日常|
@@ -239,7 +236,6 @@
 |    | v | -1 | 13 | https://anime1.me/?cat=245 | 偶像大師 灰姑娘女孩劇場 第二季|
 |    | v | -1 | 06 | https://anime1.me/?cat=246 | 結城友奈是勇者 勇者之章|
 |    | v | -1 | 49 | https://anime1.me/?cat=248 | 童話魔法使|
-|    | v | -1 | 12 | https://anime1.me/?cat=250 | 龍王的工作！|
 |    | v | -1 | 12 | https://anime1.me/?cat=251 | 博多豚骨拉麵團|
 |    | v | -1 | 12 | https://anime1.me/?cat=252 | 三顆星彩色冒險|
 |    | v | -1 | 01 | https://anime1.me/?cat=253 | Fate/Grand Order -MOONLIGHT/LOSTROOM-|
@@ -272,7 +268,6 @@
 |    | v | -1 | 24 | https://anime1.me/?cat=281 | DARLING in the FRANXX|
 |    | v | -1 | 12 | https://anime1.me/?cat=282 | 居家飲酒趣(酒鬼妹子)|
 |    | v | -1 | 17 | https://anime1.me/?cat=283 | 偶像星願(IDOLiSH7)|
-|    | v | -1 | 24 | https://anime1.me/?cat=284 | 櫻花忍法帖|
 |    | v | -1 | 25 | https://anime1.me/?cat=285 | 飆速宅男 GLORY LINE (第四季)|
 |    | v | -1 | 12 | https://anime1.me/?cat=287 | 牙鬥獸娘(KILLING BITES)|
 |    | v | -1 | 10 | https://anime1.me/?cat=288 | 惡魔人 Crybaby|

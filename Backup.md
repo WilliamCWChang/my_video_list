@@ -27,7 +27,11 @@
 |  v |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 |    | v | 12 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
 |    | v | 14 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
-
+|    |   | 12 | 12 | https://anime1.me/?cat=83 | 進擊的巨人 第二季|
+|    |   | 14 | 14 | https://anime1.me/?cat=90 | 進擊的巨人|
+|    |   | 13 | 13 | https://anime1.me/?cat=143 | 在地下城尋求邂逅是否搞錯了什麼|
+|    |   | 12 | 12 | https://anime1.me/?cat=427 | 哥布林殺手|
+|    |   | 13 | 13 | https://anime1.me/?cat=272 | OVERLORD II (第二季)|
 # 不好看，算了
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
