@@ -2,7 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  v | v | -1 | 11 | https://anime1.me/?cat=531 | RobiHachi|
 |  v | v | 09 | 11 | https://anime1.me/?cat=532 | 異世界四重奏|
-|  v | v | 09 | 10 | https://anime1.me/?cat=534 | 賢者之孫|
+|  v | v | 09 | 11 | https://anime1.me/?cat=534 | 賢者之孫|
 |  v | v | -1 | 12 | https://anime1.me/?cat=48 | 動物朋友|
 |  v | v | -1 | 27 | https://anime1.me/?cat=99 | 火影忍者 慕留人 火影新世代|
 |  v | v | -1 | 13 | https://anime1.me/?cat=110 | 武裝少女Machiavellianism|
