@@ -13,9 +13,9 @@
 |  v | v | -1 | 12 | https://anime1.me/?cat=169 | 異世界食堂|
 |  v | v | -1 | 12 | https://anime1.me/?cat=250 | 龍王的工作！|
 |  v | v | -1 | 24 | https://anime1.me/?cat=284 | 櫻花忍法帖|
+|  v | v | 34 | 35 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 23 | 23 | https://anime1.me/?cat=472 | 多羅羅|
 |  v |   | 11 | 11 | https://anime1.me/?cat=521 | 鬼滅之刃|
-|  v |   | 34 | 34 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v |   | 20 | 20 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v |   | 06 | 06 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
 |  v |   | 12 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
