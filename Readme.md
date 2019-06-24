@@ -16,8 +16,8 @@
 |  v | v | 34 | 35 | https://anime1.me/?cat=420 | JoJo的奇妙冒險 黃金之風|
 |  v | v | 11 | 12 | https://anime1.me/?cat=521 | 鬼滅之刃|
 |  v | v | 06 | 07 | https://anime1.me/?cat=543 | 褲襪視界(Miru Tights)|
-|  v |   | 23 | 23 | https://anime1.me/?cat=472 | 多羅羅|
-|  v |   | 20 | 20 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
+|  v | v | 23 | 24 | https://anime1.me/?cat=472 | 多羅羅|
+|  v | v | 20 | 21 | https://anime1.me/?cat=395 | 進擊的巨人 第三季|
 |  v |   | 12 | 12 | https://anime1.me/?cat=434 | 大人的防具店|
 |    | v | -1 | 12 | https://anime1.me/?cat=127 | 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚|
 |    | v | 01 | 12 | https://anime1.me/?cat=69 | 路人超能100|
