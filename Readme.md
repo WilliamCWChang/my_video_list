@@ -1,6 +1,6 @@
 |Enable|Unread|My|Now|Url|Name |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|  v | v | -1 | 11 | https://anime1.me/?cat=531 | RobiHachi|
+|  v | v | -1 | 12 | https://anime1.me/?cat=531 | RobiHachi|
 |  v | v | 09 | 11 | https://anime1.me/?cat=532 | 異世界四重奏|
 |  v | v | 09 | 11 | https://anime1.me/?cat=534 | 賢者之孫|
 |  v | v | -1 | 12 | https://anime1.me/?cat=48 | 動物朋友|
